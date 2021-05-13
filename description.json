@@ -3,7 +3,7 @@
   "description": "YOASOBI's first album, now available in English.",
   "artist": "YOASOBI",
   "author": "YOASOBI",
-  "cover": "cover.png",
+  "cover": "https://raw.githubusercontent.com/D34DPlayer/mcs-the-book/main/cover.png",
   "chapters": {
     "1": {
       "title": "Encore",
