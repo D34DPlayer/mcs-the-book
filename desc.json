@@ -22,12 +22,20 @@
       "last_updated": "1621512245"
     },
     "3": {
-      "title": "Tracing That Dream",
+      "title": "Tracing that Dream",
       "volume": "1",
       "groups": {
         "Monochrome Scans": "/proxy/api/imgur/chapter/CAECpzE/"
       },
       "last_updated": "1621800491"
+    },
+    "4": {
+      "title": "Probably",
+      "volume": "1",
+      "groups": {
+        "Monochrome Scans": "/proxy/api/imgur/chapter/NgcCrul/"
+      },
+      "last_updated": "1622168559"
     }
   }
 }
