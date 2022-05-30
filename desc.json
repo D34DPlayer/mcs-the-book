@@ -60,6 +60,14 @@
         "Monochrome Scans": "/proxy/api/imgur/chapter/bqC1IeM/"
       },
       "last_updated": "1623244197"
+    },
+    "8": {
+      "title": "RGB",
+      "volume": "2",
+      "groups": {
+        "Monochrome Scans": "/proxy/api/imgur/chapter/x54KlyG/"
+      },
+      "last_updated": "1653914257"
     }
   }
 }
