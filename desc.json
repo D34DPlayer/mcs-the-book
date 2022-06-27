@@ -68,6 +68,14 @@
         "Monochrome Scans": "/proxy/api/imgur/chapter/x54KlyG/"
       },
       "last_updated": "1653914257"
+    },
+    "10": {
+      "title": "Taisho Roman",
+      "volume": "2",
+      "groups": {
+        "Monochrome Scans": "/proxy/api/imgur/chapter/zQ8qldp/"
+      },
+      "last_updated": "1656328580"
     }
   }
 }
